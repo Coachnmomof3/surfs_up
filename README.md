@@ -5,11 +5,13 @@ To provide more information about temperature trends for the months of June and 
 
 ### Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-![]()
+##### June and December Temps
+![June&December Temps](https://github.com/Coachnmomof3/surfs_up/blob/master/June%26December%20Temps.png)
 
-The minimum temperature of June is quite high with 64 than that of December which is 56
-The maximum temperature of both June and December is comparable at 85 and 83 respectively.
-The data count for June is higher than that of December with 1700 and 1517 respectively.
+#### Three Major Points
+- The minimum temperature of June is high with 64 than that of December which is 56
+- The maximum temperature of both June and December is comparable at 85 and 83 respectively.
+- The data count for June is higher than that of December with 1700 and 1517 respectively.
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
